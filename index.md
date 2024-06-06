@@ -20,7 +20,7 @@ At Northeastern University, through the Align Master's Program, I am diving into
 
 ## About My Advisor
 
-<a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.advisoravatar }}" /></a>
+<img src="{{ site.advisoravatar }}" alt="Advisor Avatar" class="site-advisoravatar" />
 
 Mirjana Prpa is an assistant teaching professor at the Khoury College of Computer Sciences. Her area of teaching is human-computer interaction. She graduated from the University of Novi Sad in Serbia with a bachelor’s and master’s degree in architecture. Outside of teaching, she is currently an AR product manager and head of the AI division at NexTech AR solutions.
 
