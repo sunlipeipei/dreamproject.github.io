@@ -42,7 +42,7 @@ of Art, Science, and Technology, Leonardo 50th Anniversary, SIGGRAPH, 2018, Vanc
 
 She has been published in ACM conference proceedings such as CHI, DIS, Frontiers, and Leonardo. Also, she is associated with the AC, CHI 2021 and AC, DIS 2020 committees.
 
-[NEU Profile] (https://www.khoury.northeastern.edu/people/mirjana-prpa/)
+[NEU Profile](https://www.khoury.northeastern.edu/people/mirjana-prpa/)
 [Google Scholar](https://scholar.google.com/citations?user=sd1p5roAAAAJ&hl=en)
 
 ## About My Project
