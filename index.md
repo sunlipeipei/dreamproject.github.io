@@ -22,25 +22,8 @@ At Northeastern University, through the Align Master's Program, I am diving into
 
 <img src="{{ site.advisoravatar }}" alt="Advisor Avatar" class="site-advisoravatar" />
 
-Mirjana Prpa is an assistant teaching professor at the Khoury College of Computer Sciences. Her area of teaching is human-computer interaction. She graduated from the University of Novi Sad in Serbia with a bachelor’s and master’s degree in architecture. Outside of teaching, she is currently an AR product manager and head of the AI division at NexTech AR solutions.
-
-Her research interests include artificial intelligence, machine learning, and virtual/augmented reality. She has received multiple awards in her field. Some recent achievements are receiving the following awards:
-
-2020 SFU/SSHRC Small Research Grant
-of Art, Science, and Technology, Leonardo 50th Anniversary, SIGGRAPH, 2018, Vancouver, Canada, listed as an Emerging Leonardo
-
-- 2020 SFU/SSHRC Small Research Grant
-- Art, Science, and Technology, Leonardo 50th Anniversary, SIGGRAPH, 2018, Vancouver, Canada, listed as an Emerging Leonardo
-- 2018 KEY Big Data Graduate Scholarship, Simon Fraser University
-- 2018 Listed as one of the Emerging Leonardos in 2018.
-- 2017 Lumen Prize: Pulse Breath Water, short-listed in AI category
-- 2017 Lumen Prize: Pulse Breath Water, long-listed in AI category
-- 2017 SFU/SSHRC Small Research Grant. 2016
-- 2016 MLSRI 2016: Research Fellowship
-- 2016 Movement and Emotion as Computational Interfaces: Research Fellowship
-- 2013-2016 | Graduate Fellowship, Simon Fraser University
-
-She has been published in ACM conference proceedings such as CHI, DIS, Frontiers, and Leonardo. Also, she is associated with the AC, CHI 2021 and AC, DIS 2020 committees.
+Mirjana Prpa, PhD, brings an interdisciplinary perspective to solving complex problems of designing technology at the intersection of Mixed Reality (XR) and Human-computer Interaction. She applies her research and leadership to envision the future of XR  from the human-centered perspective that amplifies ethical and just ways of designing new XR applications. Mirjana's work is at the intersection of art, science, and technology and has received international recognition at the Cultural Program at the Olympics in 2016 in Brazil, the Future of Science Art and Technology recognition by Leonardo Journal in 2018, and  CHI 2020 Best Paper award. With experience in AR product management, research, and development, Mirjana is building an industry-focused XR lab at at Khoury College of Computer Science, Northeastern University.
+ 
 
 [NEU Profile](https://www.khoury.northeastern.edu/people/mirjana-prpa/)
 [Google Scholar](https://scholar.google.com/citations?user=sd1p5roAAAAJ&hl=en)
